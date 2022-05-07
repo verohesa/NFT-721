@@ -1,7 +1,8 @@
 // EPPR - NFT 721 para OpenSea en Polygon: https://github.com/EPPR/NFT-721/
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.1;
-
+// https://github.com/EPPR/NFT-721/blob/main/EPPRNFT.sol (Link para importar en Remix)
+// Link de Remix: https://remix.ethereum.org/
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
