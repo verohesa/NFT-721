@@ -1,4 +1,4 @@
-// EPPR - NFT 721 para OpenSea.
+// EPPR - NFT 721 para OpenSea en Polygon: https://github.com/EPPR/NFT-721/
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.1;
 
